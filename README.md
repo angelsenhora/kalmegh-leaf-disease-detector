@@ -18,4 +18,7 @@ Features:
 Future Improvements:
 - Add more disease datasets
 - Improve accuracy
-- Mobile responsive design
+- Mobile responsive design  
+                                                                                                                                                                                                                                                                                Developed By:
+Angel Senhora            :
+Angel Senhora
