@@ -1,20 +1,21 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# Kalmegh Leaf Disease Detector
 
-# Run and deploy your AI Studio app
+This project is a web application developed to identify diseases in Kalmegh leaves.
 
-This contains everything you need to run your app locally.
+The system allows users to upload a leaf image and the application analyzes the image to detect possible diseases.
 
-View your app in AI Studio: https://ai.studio/apps/df8a9ee6-b341-4b5b-aec4-d5c13f7a27e3
+Technologies Used:
+- HTML
+- CSS
+- JavaScript
+- Vite
 
-## Run Locally
+Features:
+- Upload leaf images
+- Detect possible disease
+- Simple and user-friendly interface
 
-**Prerequisites:**  Node.js
-
-
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+Future Improvements:
+- Add more disease datasets
+- Improve accuracy
+- Mobile responsive design
